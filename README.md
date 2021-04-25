@@ -1,6 +1,6 @@
 # Sobre o projeto:
 
-Trata-se de uma automação de front-end escrita em ruby, visando validar a funcionalidade de no site do Grupo Fleury
+Trata-se de uma automação de front-end escrita em ruby, visando validar a funcionalidade de busca no site do Grupo Fleury
 
 Principais pacotes utilizados:
 
@@ -50,5 +50,5 @@ cucumber -t @validar_busca chrome=true
 > Relatório
 - Ao final do teste é gerado um relatório
   - Cucumber report: disponibilizado através de um link no final da execução
-  ![CucumberReport](./img/evidencia01.jpg)
-  ![CucumberReport](./img/evidencia02.jpg)
+  ![CucumberReport](./img/evidencia01.JPG)
+  ![CucumberReport](./img/evidencia02.JPG)
