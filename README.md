@@ -32,3 +32,23 @@ Principais pacotes utilizados:
       
   - Gemfile -> Onde os pacotes utilizados são listados.
   - cucumber.yml -> Onde são feitas algumas configurações de execução.
+
+
+  # Rodar o projeto:
+
+> Execução Simples
+- O projeto podera ser executado com o comando:
+```
+cucumber
+```
+> Execução com seleção de tag
+- Também podemos selecionar o navegador e a tag desejada:
+```
+cucumber -t @validar_busca chrome=true
+```
+
+> Relatório
+- Ao final do teste é gerado um relatório
+  - Cucumber report: disponibilizado através de um link no final da execução
+  ![CucumberReport](./img/evidencia01.jpg)
+  ![CucumberReport](./img/evidencia02.jpg)
