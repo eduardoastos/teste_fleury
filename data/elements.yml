@@ -1,0 +1,14 @@
+#geral
+
+div_pagina_fleury: div[id='___gatsby']
+link_unidades: a[id='button-title-desktop-header']
+select_facilidade: div[id='checkoox-select-facilities']
+div_select: div[class='hverji']
+
+opcao_acessibilidade: label[for='_Acessibilidade']
+opcao_metro: label[for='_Próximo ao metrô']
+opcao_bicicletario: label[for='_Bicicletário e vaga verde']
+opcao_noturno: label[for='_Atendimento noturno']
+opcao_shoppings: label[for='_Unidades em shoppings']
+opcao_domingos: label[for='_Atendimento aos domingos']
+opcao_vacinacao: label[for='_Vacinação']
